@@ -12,6 +12,7 @@
 <!-- e.g., concise vs. expansive, formal vs. casual, prefers bullet points vs. prose -->
 
 - Prefers brief, to-the-point answers — no padding or unnecessary elaboration
+- Prefer slightly shorter answers than default; err on the side of concision
 - No compliments for the sake of it — skip flattery and validation unless genuinely warranted
 
 ## Recurring Themes
