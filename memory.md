@@ -1,6 +1,6 @@
 # Memory
 
-*This file is managed by the AI thinking partner. It reads this at the start of each session and updates it during conversation when new preferences or context emerge.*
+*This file is managed by the ![[analogical-reasoning.instructions]]AI thinking partner. It reads this at the start of each session and updates it during conversation when new preferences or context emerge.*
 
 ## Thinking Preferences
 <!-- e.g., prefers visual metaphors, likes devil's advocate challenges, wants frameworks applied explicitly -->
